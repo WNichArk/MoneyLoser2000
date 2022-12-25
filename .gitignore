@@ -1,0 +1,12 @@
+*secrets.json
+*appsettings.json
+*appsettings.development.json
+*token.json
+/bin
+/debug
+/obj
+/.vs/
+*/bin
+*/debug
+*/obj
+*/.vs/
